@@ -1,0 +1,23 @@
+package Homework_1;
+
+public class Flash {
+    Point3D location;
+    Angel3D angle;
+    Color color;
+    float power;
+  
+    // public Flash(Point3D location, Angle3D angle, Color color, float power) {
+    //   this.location = location;
+    //   this.angle = angle;
+    //   this.color = color;
+    //   this.power = power;
+    // }
+  
+    public void Rotate(Angel3D grad) {
+  
+    }
+  
+    public void Move(Point3D cm) {
+  
+    }
+}
